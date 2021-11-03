@@ -1,0 +1,2 @@
+int64 enc_num_right
+int64 enc_num_left
